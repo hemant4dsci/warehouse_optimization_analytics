@@ -1,4 +1,4 @@
-# 📊 Data Analytics Project Template  
+# Data-Driven Warehouse Optimization: Improving Efficiency and Reducing Costs
 
 This repository provides an **industry-standard project structure** for data analytics.  
 It is designed to help analysts start projects quickly, stay organized, and collaborate effectively.  
