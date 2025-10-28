@@ -1,0 +1,301 @@
+sku_id,category,weight_kg,dimension_cm,supplier
+SKU_0001,Furniture,3.91,13x20x29,Spencer Group
+SKU_0002,Food,2.97,48x46x28,Garrett-Rojas
+SKU_0003,Furniture,6.77,38x17x39,Miller-Barnes
+SKU_0004,Furniture,18.29,29x35x27,Morgan and Sons
+SKU_0005,Furniture,15.03,42x44x41,Galvan-Ramirez
+SKU_0006,Apparel,3.00,38x15x48,"Butler, Williams and Wilson"
+SKU_0007,Apparel,23.01,12x37x30,Tucker Group
+SKU_0008,Furniture,19.86,48x26x11,Parker-Miller
+SKU_0009,Food,1.06,15x24x46,"Miles, Jenkins and Nolan"
+SKU_0010,Electronics,16.46,47x11x27,Pierce-Whitaker
+SKU_0011,Food,19.40,46x12x21,Rodgers PLC
+SKU_0012,Tools,9.67,40x43x38,Brown-Guzman
+SKU_0013,Apparel,2.19,27x21x47,Martinez Ltd
+SKU_0014,Electronics,2.39,37x50x41,Burns-Howard
+SKU_0015,Electronics,3.05,15x40x32,Walter-Clark
+SKU_0016,Tools,21.09,36x31x30,Guerrero-Moore
+SKU_0017,Tools,22.81,16x20x31,Ryan-Nelson
+SKU_0018,Furniture,3.51,36x41x28,Rose-Miller
+SKU_0019,Apparel,6.28,35x45x12,Davis-Pierce
+SKU_0020,Apparel,4.56,39x15x30,Copeland-Bennett
+SKU_0021,Food,5.06,26x30x17,Hayden-Hill
+SKU_0022,Furniture,21.02,35x42x10,Johnson-Andersen
+SKU_0023,Furniture,8.64,44x39x36,Ross PLC
+SKU_0024,Furniture,8.13,13x22x43,Smith-Ramirez
+SKU_0025,Furniture,6.07,33x49x41,Lopez-Holmes
+SKU_0026,Apparel,15.39,50x38x13,Alexander-Sanders
+SKU_0027,Apparel,9.79,23x27x45,Potts Inc
+SKU_0028,Furniture,18.73,18x28x38,Sanders Inc
+SKU_0029,Food,5.54,41x17x11,Marquez-Moore
+SKU_0030,Electronics,19.80,50x48x25,"Gonzalez, Weeks and Orozco"
+SKU_0031,Electronics,15.29,20x29x45,"Allison, Martin and Johnson"
+SKU_0032,Food,3.30,10x45x36,Mason Ltd
+SKU_0033,Furniture,10.66,15x24x17,Wolfe and Sons
+SKU_0034,Apparel,21.66,39x17x19,Burns LLC
+SKU_0035,Electronics,23.11,41x28x42,Pierce-Chapman
+SKU_0036,Tools,11.91,27x36x40,"Heath, Banks and Hicks"
+SKU_0037,Tools,12.28,40x25x39,Christian-Simon
+SKU_0038,Food,23.00,45x19x34,Jimenez Ltd
+SKU_0039,Furniture,14.88,22x48x42,Wilson PLC
+SKU_0040,Electronics,1.30,18x14x27,Ross-Wilson
+SKU_0041,Furniture,22.86,36x31x42,Thomas LLC
+SKU_0042,Electronics,6.58,27x10x28,"Salazar, Lee and Smith"
+SKU_0043,Food,14.65,29x47x47,"Armstrong, Chavez and Pruitt"
+SKU_0044,Food,4.56,41x19x38,Rosales-Wood
+SKU_0045,Tools,1.33,44x40x32,"Poole, Campbell and Thomas"
+SKU_0046,Furniture,8.13,31x45x44,"Schmitt, Lawson and Wilson"
+SKU_0047,Tools,19.62,34x39x30,Moore and Sons
+SKU_0048,Furniture,7.30,22x25x46,Kim Group
+SKU_0049,Tools,5.89,34x24x36,Green LLC
+SKU_0050,Apparel,5.71,12x30x40,"Rivera, Johnson and Gonzalez"
+SKU_0051,Apparel,13.12,34x34x19,Rivas and Sons
+SKU_0052,Apparel,24.40,41x12x18,"Johnston, Oliver and Estrada"
+SKU_0053,Apparel,11.75,42x47x31,Thompson-Barnes
+SKU_0054,Electronics,14.15,16x38x16,Waters-Galvan
+SKU_0055,Apparel,21.59,43x39x10,Hurley-Kim
+SKU_0056,Food,13.61,19x36x19,Rivera PLC
+SKU_0057,Food,5.02,14x40x26,"Moore, Cummings and Fisher"
+SKU_0058,Electronics,7.84,31x49x35,Collins Inc
+SKU_0059,Apparel,8.09,15x31x44,Richard Group
+SKU_0060,Apparel,10.23,34x30x50,Lozano-Salinas
+SKU_0061,Apparel,10.96,41x44x12,"Clark, Williamson and Johnson"
+SKU_0062,Tools,20.09,49x14x25,Mercado-Little
+SKU_0063,Furniture,9.06,50x28x24,Palmer-Frye
+SKU_0064,Tools,11.97,15x37x16,Caldwell-Gallagher
+SKU_0065,Furniture,15.81,50x16x38,Schwartz-Glass
+SKU_0066,Apparel,9.75,20x29x11,Pittman-Stewart
+SKU_0067,Apparel,21.00,12x30x13,"Hoffman, Peterson and Oconnor"
+SKU_0068,Tools,14.89,28x32x33,Owens and Sons
+SKU_0069,Tools,7.70,37x19x25,Miller and Sons
+SKU_0070,Furniture,17.99,43x36x46,"Mckenzie, Adams and Johnson"
+SKU_0071,Food,13.43,21x20x21,Garcia LLC
+SKU_0072,Furniture,13.59,15x49x34,Jones-Peterson
+SKU_0073,Tools,12.29,49x25x41,"Turner, Nelson and Davis"
+SKU_0074,Tools,12.68,47x19x24,Anderson-Edwards
+SKU_0075,Electronics,19.25,39x50x26,Anderson-Owen
+SKU_0076,Tools,3.02,39x26x10,Blanchard-Jacobs
+SKU_0077,Electronics,8.69,39x28x44,Dunn-Adams
+SKU_0078,Food,2.35,20x14x38,Garcia Group
+SKU_0079,Furniture,18.95,32x47x29,"Snyder, Sullivan and Ayers"
+SKU_0080,Furniture,7.17,50x37x26,Shields-Gillespie
+SKU_0081,Electronics,22.49,39x29x22,Wright and Sons
+SKU_0082,Furniture,13.40,34x40x16,"Larsen, Nelson and Scott"
+SKU_0083,Tools,20.12,25x34x46,Nelson Ltd
+SKU_0084,Apparel,24.48,32x46x28,Holmes-Logan
+SKU_0085,Electronics,21.07,28x11x35,Price Ltd
+SKU_0086,Furniture,21.74,27x10x46,Key-Sparks
+SKU_0087,Electronics,10.50,13x48x41,Vance Ltd
+SKU_0088,Electronics,14.02,28x24x48,"Lewis, Ferguson and Edwards"
+SKU_0089,Apparel,6.72,32x24x50,Wilson-Burke
+SKU_0090,Tools,5.30,22x49x26,"Davis, Garcia and Moore"
+SKU_0091,Electronics,12.88,18x50x16,Greene-Duran
+SKU_0092,Furniture,15.08,50x12x29,Frost-Williams
+SKU_0093,Food,8.81,38x12x47,Nicholson-White
+SKU_0094,Electronics,14.45,33x18x15,Rodriguez PLC
+SKU_0095,Electronics,22.24,28x30x36,"Snyder, Townsend and Shepard"
+SKU_0096,Apparel,14.14,21x22x18,Gregory Group
+SKU_0097,Tools,18.16,44x33x43,Jones-Price
+SKU_0098,Food,20.23,42x27x20,"Sanchez, Evans and Washington"
+SKU_0099,Furniture,24.72,26x40x28,Evans LLC
+SKU_0100,Food,15.28,31x17x39,Carpenter Ltd
+SKU_0101,Furniture,20.27,14x19x24,"Nguyen, Smith and Russell"
+SKU_0102,Tools,24.08,35x45x33,"Spence, Johnson and Armstrong"
+SKU_0103,Furniture,23.64,15x35x10,Cisneros-Lewis
+SKU_0104,Apparel,3.96,26x44x17,Bruce-Farmer
+SKU_0105,Apparel,10.46,39x33x26,Fitzpatrick Group
+SKU_0106,Apparel,8.44,47x34x50,Ramos-Henry
+SKU_0107,Apparel,2.63,33x16x24,"Ross, Delgado and Smith"
+SKU_0108,Food,16.01,40x11x49,Pope LLC
+SKU_0109,Tools,18.53,45x30x49,Melton-Davies
+SKU_0110,Furniture,21.28,24x14x50,"Figueroa, Garcia and Walker"
+SKU_0111,Furniture,3.51,39x29x36,Burns Inc
+SKU_0112,Apparel,21.97,17x18x12,"Blake, Mcdaniel and Bush"
+SKU_0113,Apparel,16.25,12x29x41,Cantrell-Rojas
+SKU_0114,Electronics,17.75,17x16x25,Blevins-Carroll
+SKU_0115,Tools,22.81,44x18x34,Hunter Ltd
+SKU_0116,Food,15.81,39x33x44,Duffy-Watts
+SKU_0117,Furniture,8.73,36x47x19,"Ryan, Liu and Smith"
+SKU_0118,Electronics,20.72,36x16x41,Jones Inc
+SKU_0119,Electronics,9.39,49x36x27,Webb-Dudley
+SKU_0120,Furniture,1.34,12x33x23,"Berry, Rodgers and Hansen"
+SKU_0121,Food,20.85,38x38x25,Gill-Pennington
+SKU_0122,Electronics,8.96,33x16x33,Lopez-Lara
+SKU_0123,Electronics,19.46,44x32x13,"Chung, Nunez and Pope"
+SKU_0124,Tools,9.39,35x27x22,"Jackson, Thomas and Payne"
+SKU_0125,Food,21.60,17x39x15,Good-Franklin
+SKU_0126,Electronics,5.88,23x50x48,"Clark, Price and Cole"
+SKU_0127,Food,24.38,11x13x31,Wallace-Davila
+SKU_0128,Furniture,19.60,25x18x46,Hall-Mays
+SKU_0129,Apparel,3.30,23x14x45,Bishop-Rojas
+SKU_0130,Electronics,14.36,23x47x23,Martinez-Weber
+SKU_0131,Tools,24.64,24x31x19,"Parker, Blackburn and Welch"
+SKU_0132,Furniture,12.04,48x10x27,"Baldwin, Burns and Moran"
+SKU_0133,Food,4.96,19x18x44,"Coffey, Pratt and Black"
+SKU_0134,Furniture,12.38,26x21x17,"Carpenter, Davis and Wilkerson"
+SKU_0135,Electronics,13.06,11x18x10,"Walton, Moreno and Wu"
+SKU_0136,Food,18.67,32x25x47,"Adams, Thompson and Becker"
+SKU_0137,Apparel,17.62,30x11x21,Whitehead Ltd
+SKU_0138,Furniture,10.36,26x13x18,Hernandez and Sons
+SKU_0139,Electronics,5.84,36x43x17,Weber-Hernandez
+SKU_0140,Tools,16.30,14x40x38,Robinson PLC
+SKU_0141,Food,10.83,33x42x47,Mercer-Holder
+SKU_0142,Furniture,3.74,16x38x42,"Calhoun, Solomon and Mcclain"
+SKU_0143,Furniture,22.56,24x49x12,"Henderson, Hurley and Garcia"
+SKU_0144,Apparel,17.43,43x29x39,Porter Inc
+SKU_0145,Apparel,17.24,11x13x40,Levine and Sons
+SKU_0146,Tools,20.65,35x37x16,Reyes-Valencia
+SKU_0147,Tools,13.48,41x38x14,Vaughn-Diaz
+SKU_0148,Electronics,20.47,15x30x48,Deleon-James
+SKU_0149,Electronics,12.70,19x14x18,Mcfarland-Miller
+SKU_0150,Tools,2.15,27x49x50,Wilson-Mack
+SKU_0151,Tools,10.43,47x45x30,Franklin-Krueger
+SKU_0152,Food,12.69,34x48x43,"Santana, Smith and Vaughn"
+SKU_0153,Apparel,18.14,28x39x42,Cook-Rodriguez
+SKU_0154,Electronics,3.11,48x37x16,Morris PLC
+SKU_0155,Apparel,3.93,17x45x23,Hull and Sons
+SKU_0156,Apparel,6.96,37x38x24,"Schneider, Davis and Adams"
+SKU_0157,Tools,7.03,36x31x39,Wolfe LLC
+SKU_0158,Food,18.44,35x36x16,Thompson PLC
+SKU_0159,Furniture,6.64,30x37x30,Kerr PLC
+SKU_0160,Food,16.01,26x33x19,Diaz and Sons
+SKU_0161,Food,12.61,40x14x15,"Edwards, Hull and Valdez"
+SKU_0162,Apparel,14.55,15x15x37,Richardson-Waters
+SKU_0163,Food,21.03,16x33x18,"Sanders, Lewis and Jones"
+SKU_0164,Electronics,10.41,45x13x47,Rodriguez and Sons
+SKU_0165,Apparel,19.39,45x45x31,"Rios, Wallace and Hicks"
+SKU_0166,Electronics,10.84,17x36x32,"Potts, Berg and Khan"
+SKU_0167,Furniture,9.17,37x13x28,"Jones, Meyer and Cobb"
+SKU_0168,Apparel,23.99,48x29x32,Castillo Inc
+SKU_0169,Furniture,5.02,16x46x42,"Bond, Harris and Johnston"
+SKU_0170,Apparel,2.71,23x19x40,Olson PLC
+SKU_0171,Tools,19.39,24x16x32,Carter-Silva
+SKU_0172,Food,2.17,45x33x17,Baker PLC
+SKU_0173,Tools,21.01,27x46x24,Sullivan Group
+SKU_0174,Furniture,11.21,37x45x49,Henry and Sons
+SKU_0175,Food,22.93,49x45x11,"Marquez, Perez and Howard"
+SKU_0176,Apparel,18.18,48x27x11,Tate-Hendricks
+SKU_0177,Food,15.45,21x27x29,Murillo-Lara
+SKU_0178,Electronics,23.76,31x32x10,"Hutchinson, Scott and Gonzalez"
+SKU_0179,Food,10.22,21x19x46,Smith and Sons
+SKU_0180,Electronics,23.88,35x14x19,"Chandler, Wood and Reese"
+SKU_0181,Food,3.81,50x11x15,"Edwards, Bryant and Mitchell"
+SKU_0182,Electronics,12.35,43x23x34,Patterson Group
+SKU_0183,Furniture,7.11,36x39x31,"Mullen, Harper and Castro"
+SKU_0184,Tools,13.73,20x33x29,"Esparza, Bishop and Watson"
+SKU_0185,Apparel,4.47,30x46x48,Humphrey-Woods
+SKU_0186,Food,21.12,15x13x19,Leach Ltd
+SKU_0187,Tools,21.24,20x49x13,Becker-Bullock
+SKU_0188,Apparel,23.90,15x27x38,Richard and Sons
+SKU_0189,Apparel,4.29,37x41x48,Cooper-Jackson
+SKU_0190,Electronics,15.77,38x36x27,Burns-Carr
+SKU_0191,Furniture,12.12,23x42x17,Grant-Johnson
+SKU_0192,Furniture,8.94,32x37x17,Harris LLC
+SKU_0193,Tools,9.11,28x47x41,Alexander Inc
+SKU_0194,Furniture,10.61,43x29x12,Conner-Douglas
+SKU_0195,Food,17.77,24x35x48,"Powell, Webster and Martin"
+SKU_0196,Furniture,15.16,13x10x23,Lewis and Sons
+SKU_0197,Tools,11.76,29x23x18,"Lane, Santiago and Howard"
+SKU_0198,Furniture,2.36,26x28x30,Williamson Inc
+SKU_0199,Food,2.41,17x10x41,Hampton-Nelson
+SKU_0200,Electronics,0.56,37x21x18,Brown-Mccormick
+SKU_0201,Tools,24.21,34x44x24,"Williams, Johnson and Oneal"
+SKU_0202,Electronics,0.63,42x45x32,"Burton, Watson and Marshall"
+SKU_0203,Electronics,3.03,14x35x12,Berg PLC
+SKU_0204,Electronics,8.21,37x11x39,"Delgado, Phillips and Gregory"
+SKU_0205,Apparel,20.28,14x30x46,"Lawson, Evans and West"
+SKU_0206,Apparel,24.07,37x46x35,"Brady, Martin and Oneal"
+SKU_0207,Electronics,19.86,50x36x28,Davis Inc
+SKU_0208,Tools,17.42,17x35x11,Russell-Rogers
+SKU_0209,Food,13.27,30x20x49,Barnes LLC
+SKU_0210,Food,2.62,39x33x15,"Brown, Harrison and Baird"
+SKU_0211,Furniture,23.98,37x16x25,Morrison LLC
+SKU_0212,Tools,19.08,37x47x35,Andrews Ltd
+SKU_0213,Apparel,16.15,43x15x35,"Ward, Gray and Bender"
+SKU_0214,Electronics,19.10,29x31x24,Mcconnell-Gregory
+SKU_0215,Furniture,18.24,31x20x14,"Lee, Sullivan and Smith"
+SKU_0216,Food,16.11,42x50x17,Simpson Ltd
+SKU_0217,Apparel,24.52,43x42x22,Wright and Sons
+SKU_0218,Apparel,22.63,32x32x19,"Spears, Rivera and Mata"
+SKU_0219,Electronics,16.34,25x16x19,Perry and Sons
+SKU_0220,Food,17.48,26x22x21,Yoder Inc
+SKU_0221,Tools,1.76,48x19x14,Khan Group
+SKU_0222,Apparel,16.91,21x50x41,Sanchez-Woods
+SKU_0223,Electronics,1.58,39x46x47,Espinoza and Sons
+SKU_0224,Tools,14.91,38x46x50,Cobb-Huber
+SKU_0225,Food,24.98,49x30x50,Braun and Sons
+SKU_0226,Apparel,14.12,30x19x38,Jones-Keller
+SKU_0227,Tools,12.09,14x40x38,Strickland-Compton
+SKU_0228,Tools,8.16,50x29x27,"Browning, Gregory and Nelson"
+SKU_0229,Tools,3.45,47x13x32,Benson Ltd
+SKU_0230,Apparel,18.41,42x14x29,Wheeler-Bailey
+SKU_0231,Apparel,5.22,39x38x12,Gross-Hogan
+SKU_0232,Furniture,3.32,13x33x28,Wright-Kidd
+SKU_0233,Food,10.83,14x15x49,"Long, Petersen and Huffman"
+SKU_0234,Electronics,19.99,48x42x34,Armstrong PLC
+SKU_0235,Tools,18.75,39x47x45,Molina-Raymond
+SKU_0236,Furniture,1.84,12x38x46,"Martinez, Dawson and Weber"
+SKU_0237,Electronics,11.65,22x30x48,"Delgado, Holder and Lowe"
+SKU_0238,Furniture,13.30,40x42x19,Lopez and Sons
+SKU_0239,Apparel,16.29,13x38x16,Miller-Johnson
+SKU_0240,Tools,16.43,31x15x42,Rosales LLC
+SKU_0241,Electronics,9.44,21x12x25,"James, Miranda and Robertson"
+SKU_0242,Electronics,14.24,38x38x43,Davenport Inc
+SKU_0243,Electronics,12.29,43x49x20,Robbins LLC
+SKU_0244,Electronics,22.18,33x33x28,"Rodriguez, Wood and Burke"
+SKU_0245,Electronics,13.49,34x36x31,Hernandez Ltd
+SKU_0246,Furniture,11.31,48x13x50,"Bright, Gonzalez and Pennington"
+SKU_0247,Tools,10.41,31x14x31,Martinez Ltd
+SKU_0248,Apparel,14.52,16x45x34,Hernandez Group
+SKU_0249,Apparel,20.20,28x26x48,Ford Inc
+SKU_0250,Apparel,13.69,19x31x15,"Lyons, Nielsen and Simmons"
+SKU_0251,Apparel,16.71,47x19x32,Edwards Group
+SKU_0252,Furniture,18.58,29x35x18,Moon Inc
+SKU_0253,Food,13.24,48x15x29,Alvarado-Thompson
+SKU_0254,Tools,10.96,45x34x31,Dunn-Leonard
+SKU_0255,Electronics,21.98,18x43x15,Myers-Mitchell
+SKU_0256,Food,10.73,37x42x33,"Burton, Dodson and Mason"
+SKU_0257,Apparel,11.82,11x33x29,Rodriguez-Long
+SKU_0258,Food,24.76,21x23x31,Ross Group
+SKU_0259,Tools,0.51,41x22x24,"Rowe, Taylor and Hernandez"
+SKU_0260,Electronics,5.04,18x19x14,"Foster, Jensen and Martinez"
+SKU_0261,Electronics,9.91,28x16x42,Murphy PLC
+SKU_0262,Tools,23.35,44x43x12,"Porter, Adams and Brown"
+SKU_0263,Tools,2.22,31x49x18,Mcdaniel Ltd
+SKU_0264,Apparel,0.73,48x34x19,Haynes Ltd
+SKU_0265,Electronics,1.79,20x21x49,"Brooks, Walker and Hunt"
+SKU_0266,Food,2.67,20x38x12,"Griffin, Gordon and Wolfe"
+SKU_0267,Furniture,1.42,36x33x25,Hernandez LLC
+SKU_0268,Furniture,12.25,38x49x28,"Harrison, Mitchell and Johnston"
+SKU_0269,Tools,14.73,38x24x44,"Mathews, Moon and Butler"
+SKU_0270,Apparel,7.16,25x29x40,"Wright, Velasquez and Bailey"
+SKU_0271,Furniture,10.26,22x33x46,Hall-Atkinson
+SKU_0272,Electronics,2.75,38x39x28,Brown-Berry
+SKU_0273,Tools,8.74,34x42x43,Adams Group
+SKU_0274,Food,13.30,36x20x22,Glass Inc
+SKU_0275,Tools,18.44,48x18x26,Rivera-Maynard
+SKU_0276,Food,0.58,13x40x33,Mason-Brown
+SKU_0277,Tools,11.95,45x16x43,"Wilkins, Medina and Williamson"
+SKU_0278,Tools,7.78,17x28x15,Madden and Sons
+SKU_0279,Tools,21.39,20x27x38,Morales-Ortega
+SKU_0280,Food,18.03,42x19x37,Vance-Giles
+SKU_0281,Food,14.93,15x24x38,Morales-Anthony
+SKU_0282,Tools,7.29,32x11x36,Brown Ltd
+SKU_0283,Furniture,22.80,13x35x42,Mitchell-Bradshaw
+SKU_0284,Apparel,1.60,33x25x34,"Elliott, Hernandez and Oliver"
+SKU_0285,Apparel,3.18,15x33x24,Rodriguez LLC
+SKU_0286,Apparel,10.09,11x30x16,Powers Group
+SKU_0287,Food,3.55,31x19x18,Baker-Fuller
+SKU_0288,Food,23.93,12x28x40,Price Ltd
+SKU_0289,Furniture,20.05,18x40x38,Daniels-Lambert
+SKU_0290,Apparel,6.85,49x10x15,Webb PLC
+SKU_0291,Apparel,14.92,11x26x23,Anderson-Whitehead
+SKU_0292,Tools,24.57,19x45x48,Hall-Brown
+SKU_0293,Food,22.16,43x37x17,"Carter, Anderson and Moss"
+SKU_0294,Apparel,15.22,28x25x29,"Hernandez, Grimes and Martin"
+SKU_0295,Furniture,22.64,17x13x25,Clark Group
+SKU_0296,Furniture,24.74,36x50x49,Fowler LLC
+SKU_0297,Apparel,18.71,39x14x17,"Jacobson, Clayton and Thompson"
+SKU_0298,Food,2.09,41x48x44,Flynn and Sons
+SKU_0299,Furniture,10.34,11x50x42,"Herrera, Rose and Pennington"
+SKU_0300,Tools,21.03,46x25x19,"Green, Pearson and Francis"
