@@ -21,7 +21,7 @@ CREATE TABLE IF NOT EXISTS employee_performance (
     record_date DATE,
     orders_picked SMALLINT,
     errors SMALLINT,
-    hours_worded NUMERIC(3, 1),
+    hours_worked NUMERIC(3, 1),
     FOREIGN KEY (picker_id) REFERENCES employees (picker_id)
 );
 
